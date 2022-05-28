@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues></ManuallySuppressedIssues>
+  <CurrentIssues>
+    <ID>EmptyFunctionBlock:ApartmentSpiderApplicationTests.kt$ApartmentSpiderApplicationTests${ }</ID>
+    <ID>SpreadOperator:ApartmentSpiderApplication.kt$(*args)</ID>
+  </CurrentIssues>
+</SmellBaseline>
